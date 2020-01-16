@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637030585592",
+    "firebase_url": "https://apps-75c2e.firebaseio.com",
+    "project_id": "apps-75c2e",
+    "storage_bucket": "apps-75c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637030585592:android:bb6b587b0f89b65d33170d",
+        "android_client_info": {
+          "package_name": "com.webitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637030585592-f3k6nnr8qkk1dre0p0a1r3g6k4sqn9ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmanuLo2f52htxgl00BlRYRkZ8BK9f9DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637030585592-f3k6nnr8qkk1dre0p0a1r3g6k4sqn9ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
